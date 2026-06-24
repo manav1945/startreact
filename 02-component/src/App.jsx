@@ -1,0 +1,12 @@
+import React from 'react'
+import card from './components/card'
+import navbar from './components/navbar'
+const App = () => {
+  return (
+    <div>app
+      <card />
+    </div>
+  )
+}
+
+export default App
